@@ -4,12 +4,11 @@ A transport management system for Daffodil International University (DIU) that l
 
 ## Team
 
-| Name | ID | Role |
-|---|---|---|
+| Name | Role |
+|---|---|
 | Ahsan Habib | Mobile App (Android) |
-| Sahriar Ekhlas | Backend |
-| Katon Chakma | Database |
-
+| [Sahriar Ekhlas](https://github.com/shadhinsahriar) | Backend |
+| [Katon Chakma](https://github.com/KatonChakma-dev) | Database |
 ## Tech Stack
 
 - **Mobile App:** Java + XML (Android)
